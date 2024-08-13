@@ -1,9 +1,15 @@
-## How to interpret these files
+## RegTech Test Files
 
-- Each folder contains output of the [Mock Data Generator](https://github.com/cfpb/regtech-mock-data-generator) for a specific project (e.g. sbl).
-- This repo assumes you have some kind of validator that accepts inputs of CSVs (e.g. [SBL's data validator](https://github.com/cfpb/regtech-data-validator)).
-- Within each folder, you may find subfolders with categories of errors, but ultimatley, you should find a series of CSVs with the following naming schemas.
+This is a repo that contains test files that can be used to explore various parts of the Small Business Lending (SBL or 1071) beta platform. There are two different subfolders within the sbl folder - demo_files and dev_files. Their respective readmes have additional detail, but here's a high-level overview of their contents.
 
-  - [project name]_[number of rows]_clean.csv: Should be a fake table that generates no errors with the specified number of rows. 
-  - [project name]_[error name].csv: This should be a fake table that guarantees a triggering of the specified error. **NOTE: it does not mean that it only triggers that error, other errors might occur**
-  
+### demo_files
+
+These are files that are designed to be used to explore different testing scenarios on the SBL beta platform and to help users navigate through different stages of the platform. 
+
+
+### dev_files
+
+These are files that can be used to explore different testing scenarios on the SBL beta platform but more generally exist to show the structure of files that will and will not pass the SBL platform validation checks. 
+
+- Each folder contains output of the [Mock Data Generator](https://github.com/cfpb/regtech-mock-data-generator).
+- These files can be used with the SBL beta platform or with the [SBL data validator](https://github.com/cfpb/regtech-data-validator).
