@@ -4,7 +4,7 @@
 
 #### Filing platform overview 
 
-![a screen capture of the stages of filing submission from within the beta for the Small Business Lending Data Filing Platform](image.png)
+![a screen capture of the stages of filing submission from within the beta for the Small Business Lending Data Filing Platform](filing-overview.png)
 
 These are files that are designed to be used to explore different testing scenarios on the beta for the Small Business Lending Data Filing Platform and to help users navigate through different stages of the platform. 
 
@@ -43,7 +43,7 @@ These are files that are designed to be used to explore different testing scenar
     - The logical errors are multi-field errors. The first one is [E0121](https://www.consumerfinance.gov/data-research/small-business-lending/filing-instructions-guide/2024-guide/#4.2.1): "'Type of guarantee' must contain at least one and at most five values, separated by semicolons."
     - This is a logical error because while the formatting is correct (999 separated by semicolons are  values), the values violate the logical rules set forth in the [Filing Instructions Guide entry for the Type of guarantee field](https://www.consumerfinance.gov/data-research/small-business-lending/filing-instructions-guide/2024-guide/#ct_guarantee).
 
-2. [**errors-page-2-syntax-many.csv:**](https://github.com/cfpb/regtech-test-files/blob/main/sbl/demo_files/errors-page-2-syntax-many.csv) This file is similar to the previous file, but has many more examples of logical errors.
+2. [**errors-page-2-logic-many.csv:**](https://github.com/cfpb/regtech-test-files/blob/main/sbl/demo_files/errors-page-2-logic-many.csv) This file is similar to the previous file, but has many more examples of logical errors.
 
 #### Warnings
 
@@ -60,3 +60,19 @@ These are files that are designed to be used to explore different testing scenar
 1. [**edit-before-upload-no-errors-or-warnings.csv:**](https://github.com/cfpb/regtech-test-files/blob/main/sbl/demo_files/edit-before-upload-no-errors-or-warnings.csv) This file contains a single record that will not trigger any error or warning validation checks if you prepare it correctly. **It is titled 'edit-before-upload-no-errors-or-warnings.csv' because you must edit it before upload to receive no errors or warnings.**
     - The UID here is called "REPLACETHISUIDWITHYOUROWNUIDFORTHETEST". 
     - Edit the .csv and replace this UID with an example UID using your institution's own LEI to avoid Warning [W0003](https://www.consumerfinance.gov/data-research/small-business-lending/filing-instructions-guide/2024-guide/#4.4.1). 
+
+## How to Download Files From This Repository for Use
+
+To download files from this GitHub repository web page for use, click on the file listed in the repo:
+
+![a screenshot of a pointer hovering over a .csv file in the repo, part of the instructions for downloading](https://github.com/cfpb/regtech-test-files/blob/main/download-instructions-1.png)
+
+Once the file is opened in GitHub in the browser, click on the Download raw file button in the upper right hand corner of the table display (shown in yellow): 
+
+![a screenshot of the Download raw file button for a .csv file in the repo, part of the instructions for downloading](https://github.com/cfpb/regtech-test-files/blob/main/download-instructions-2.png)
+
+Repeat this process for any individual files that you would like to download for testing with the beta for the Small Business Lending Data Filing Platform. 
+
+You may also download this entire repo as a ZIP file by clicking Download ZIP from the Code menu button on the main page of this repo:
+
+![a screenshot of a pointer hovering over the Download ZIP button for the repo, part of the instructions for downloading](https://github.com/cfpb/regtech-test-files/blob/main/download-instructions-3.png)
