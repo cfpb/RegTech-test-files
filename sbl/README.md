@@ -1,3 +1,5 @@
+For use in the beta for the Small Business Lending Filing Platform only, validation methods are subject to change. 
+
 ### demo_files
 
 These are files that are designed to be used to explore different testing scenarios on the beta for the Small Business Lending Data Filing Platform and to help users navigate through different stages of the platform. 
