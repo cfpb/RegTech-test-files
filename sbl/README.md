@@ -1,4 +1,4 @@
-Small business lending application register test files for use in the beta for the Small Business Lending Filing Platform only, validation methods are subject to change. 
+Small business lending application register test files for use on the beta for the Small Business Lending Filing Platform only, validation methods are subject to change. 
 
 ### demo_files
 
