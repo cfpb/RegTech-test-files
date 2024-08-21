@@ -4,7 +4,7 @@ For use in the beta for the Small Business Lending Filing Platform only, validat
 
 ## Filing platform overview 
 
-![a screen capture of the steps of the filing process from within the beta for the Small Business Lending Data Filing Platform](filing-overview.png)
+<img width="1216" alt="a screen capture of the steps of the filing process from within the beta for the Small Business Lending Data Filing Platform" src="https://github.com/user-attachments/assets/34d78c7c-12f9-445b-aaea-c5a1b589ea9c">
 
 ### Step 1. Upload file
 - Select an appropriate .csv file for upload 
