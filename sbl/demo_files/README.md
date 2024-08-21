@@ -69,14 +69,14 @@ These files can be used to explore different testing scenarios on the beta for t
 
 To download files from this GitHub repository, click on the file listed in the repo:
 
-![a screenshot of a pointer hovering over a .csv file in the repo, part of the instructions for downloading](https://github.com/cfpb/regtech-test-files/blob/main/download-instructions-1.png)
+<img width="424" alt="a screenshot of a pointer hovering over a .csv file in the repo, part of the instructions for downloading" src="https://github.com/user-attachments/assets/2b28f446-985b-4faf-95b6-c6ee58d04cb6">
 
-Once the file is opened in GitHub in the browser, click on the "Download raw file" button in the upper right hand corner of the table display (shown in yellow): 
+Once the file is opened in GitHub in the browser, click on the "Download raw file" button in the upper right hand corner of the table display (shown in green): 
 
-![a screenshot of the Download raw file button for a .csv file in the repo, part of the instructions for downloading](https://github.com/cfpb/regtech-test-files/blob/main/download-instructions-2.png)
+<img width="281" alt="a screenshot of the Download raw file button for a .csv file in the repo, part of the instructions for downloading" src="https://github.com/user-attachments/assets/2628c976-6990-4021-aa2a-47f29f3f1460">
 
 Repeat this process for any individual files that you would like to download for testing with the beta for the Small Business Lending Data Filing Platform. 
 
-You may also download this entire repo as a ZIP file by clicking "Download ZIP" from the "Code" menu button on the main page of this repo:
+You may also download this entire repo as a ZIP file by clicking "Download ZIP" from the "Code" menu button on the [main page](https://github.com/cfpb/LAR-test-files) of this repo:
 
-![a screenshot of a pointer hovering over the Download ZIP button for the repo, part of the instructions for downloading](https://github.com/cfpb/regtech-test-files/blob/main/download-instructions-3.png)
+<img width="524" alt="a screenshot of a pointer hovering over the Download ZIP button for the repo, part of the instructions for downloading" src="https://github.com/user-attachments/assets/e37a9aab-6528-4078-a1a7-0a6d575c76db">
