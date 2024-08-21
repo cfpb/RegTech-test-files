@@ -1,6 +1,6 @@
-# Register test files
+# Application register test files
 
-This repository contains test files that can be used to explore various parts of the beta for the Small Business Lending Data Filing Platform. There are two subfolders within the small_business_lending folder: demo_files and dev_files. Their respective readmes have additional detail, but here's a high-level overview of their contents.
+This repository contains register test files that can be used to explore various parts of the beta for the Small Business Lending Data Filing Platform. There are two subfolders within the small_business_lending folder: demo_files and dev_files. Their respective readmes have additional detail, but here's a high-level overview of their contents.
 
 ## [demo_files](https://github.com/cfpb/LAR-test-files/tree/main/sbl/demo_files)
 
@@ -9,10 +9,10 @@ These files can be used to explore different scenarios on the beta for the Small
 
 ## [dev_files](https://github.com/cfpb/LAR-test-files/tree/main/sbl/dev_files)
 
-These files can be used to explore different scenarios on the beta for the Small Business Lending Data Filing Platform but more generally exist to show the structure of files that will and will not pass the Small Business Lending Data Filing Platform validation checks. 
+These files can be used to explore different scenarios on the beta for the Small Business Lending Data Filing Platform but more generally exist to show the structure of register files that will and will not pass the validation checks on the Small Business Lending Data Filing Platform. 
 
 - Each folder contains the output of the [Mock Data Generator](https://github.com/cfpb/regtech-mock-data-generator).
-- These files can be used with the beta for the Small Business Lending Data Filing Platform or with the [data validator](https://github.com/cfpb/regtech-data-validator).
+- These test files can be used with the beta for the Small Business Lending Data Filing Platform or with the [data validator](https://github.com/cfpb/regtech-data-validator).
 
 ## How to download test files from this repository
 
