@@ -2,6 +2,10 @@
 
 For use in the beta for the Small Business Lending Filing Platform only, validation methods are subject to change. 
 
+- [Filing platform overview](#filing-platform-overview)
+- [Test file descriptions](#test-file-descriptions)
+- [How to download files from this repository](#how-to-download-files-from-this-repository)
+
 ## Filing platform overview 
 
 <img width="1216" alt="a screen capture of the steps of the filing process from within the beta for the Small Business Lending Data Filing Platform" src="https://github.com/user-attachments/assets/34d78c7c-12f9-445b-aaea-c5a1b589ea9c">
@@ -30,7 +34,7 @@ For use in the beta for the Small Business Lending Filing Platform only, validat
 
 ### Step 5. Sign and submit
 
-## Test files
+## Test file descriptions
 These files can be used to explore different testing scenarios on the beta for the Small Business Lending Data Filing Platform and to help users navigate through different steps of the filing process. 
 
 ### Errors (syntax)
