@@ -1,6 +1,6 @@
 # Lending Application Register (LAR) Test Files
 
-This repository contains test files that can be used to explore various parts of the beta for the Small Business Lending Data Filing Platform, referred to as 1071 or SBL. There are two subfolders within the small_business_lending folder: demo_files and dev_files. Their respective readmes have additional detail, but here's a high-level overview of their contents.
+This repository contains test files that can be used to explore various parts of the beta for the Small Business Lending Data Filing Platform, also referred to as 1071 or SBL. There are two subfolders within the small_business_lending folder: demo_files and dev_files. Their respective readmes have additional detail, but here's a high-level overview of their contents.
 
 ## [demo_files](https://github.com/cfpb/LAR-test-files/tree/main/sbl/demo_files)
 
