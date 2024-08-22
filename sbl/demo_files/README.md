@@ -1,7 +1,10 @@
 # Demo files
 
-These folders contain test files that can be used by general audiences wishing to test the beta for the Small Business Lending Platform. For developers and those wanting to test specific details or aspects of the beta for the Small Business Lending Data Filing Platform, please see the **dev_files** folder in this repo. These test files are for use in the beta for the Small Business Lending Filing Platform only, validation methods are subject to change. 
+These folders contain test files that can be used by general audiences wishing to test the beta for the Small Business Lending Platform. These files are for use in the beta for the Small Business Lending Filing Platform only, validation methods are subject to change. 
 
+For developers and those wanting to test specific details or aspects of the beta for the Small Business Lending Data Filing Platform, please see the **[dev files](https://github.com/cfpb/LAR-test-files/tree/6359bc53119b29ecc4ee16ca4df59c1c17af514f/sbl/dev_files)** folder in this repo. 
+
+Page sections:
 - [Filing platform overview](#filing-platform-overview)
 - [Test file descriptions](#test-file-descriptions)
 - [How to download files from this repository](#how-to-download-files-from-this-repository)
