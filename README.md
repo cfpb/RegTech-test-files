@@ -1,13 +1,13 @@
-# Lending Application Register (LAR) Test Files
+# Small Business Lending Application Register (SBLAR) Test Files
 
 This repository contains test files that can be used to explore various parts of the beta for the Small Business Lending Data Filing Platform, also referred to as SBL or 1071. There are two subfolders within the small_business_lending folder: demo_files and dev_files. Their respective readmes have additional detail, but here's a high-level overview of their contents.
 
-## [demo_files](https://github.com/cfpb/LAR-test-files/tree/main/sbl/demo_files)
+## [demo_files](https://github.com/cfpb/RegTech-test-files/tree/main/sbl/demo_files)
 
 These files can be used to explore different scenarios on the beta for the Small Business Lending Data Filing Platform and to help users navigate through different steps of the platform. 
 
 
-## [dev_files](https://github.com/cfpb/LAR-test-files/tree/main/sbl/dev_files)
+## [dev_files](https://github.com/cfpb/RegTech-test-files/tree/main/sbl/dev_files)
 
 These files can be used to explore different scenarios on the beta for the Small Business Lending Data Filing Platform but more generally exist to show the structure of register files that will and will not pass the validation checks on the Small Business Lending Data Filing Platform. 
 
@@ -26,6 +26,6 @@ Once the file is opened in GitHub in the browser, click on the "Download raw fil
 
 Repeat this process for any individual test files that you would like to download. 
 
-You may also download this entire repo as a ZIP file by clicking "Download ZIP" from the "Code" menu button on the [main page](https://github.com/cfpb/LAR-test-files) of this repo:
+You may also download this entire repo as a ZIP file by clicking "Download ZIP" from the "Code" menu button on the [main page](https://github.com/cfpb/RegTech-test-files) of this repo:
 
 <img width="524" alt="a screenshot of a pointer hovering over the Download ZIP button for the repo, part of the instructions for downloading" src="https://github.com/user-attachments/assets/e37a9aab-6528-4078-a1a7-0a6d575c76db">

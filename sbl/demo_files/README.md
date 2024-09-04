@@ -2,7 +2,7 @@
 
 These folders contain test files that can be used by general audiences wishing to test the beta for the Small Business Lending Platform. These files are for use in the beta for the Small Business Lending Filing Platform only, validation methods are subject to change. 
 
-For developers and those wanting to test specific details or aspects of the beta for the Small Business Lending Data Filing Platform, please see the **[dev files](https://github.com/cfpb/LAR-test-files/tree/6359bc53119b29ecc4ee16ca4df59c1c17af514f/sbl/dev_files)** folder in this repo. 
+For developers and those wanting to test specific details or aspects of the beta for the Small Business Lending Data Filing Platform, please see the **[dev files](https://github.com/cfpb/RegTech-test-files/tree/6359bc53119b29ecc4ee16ca4df59c1c17af514f/sbl/dev_files)** folder in this repo. 
 
 Page sections:
 - [Filing platform overview](#filing-platform-overview)
@@ -84,6 +84,6 @@ Once the file is opened in GitHub in the browser, click on the "Download raw fil
 
 Repeat this process for any individual files that you would like to download for testing with the beta for the Small Business Lending Data Filing Platform. 
 
-You may also download this entire repo as a ZIP file by clicking "Download ZIP" from the "Code" menu button on the [main page](https://github.com/cfpb/LAR-test-files) of this repo:
+You may also download this entire repo as a ZIP file by clicking "Download ZIP" from the "Code" menu button on the [main page](https://github.com/cfpb/RegTech-test-files) of this repo:
 
 <img width="524" alt="a screenshot of a pointer hovering over the Download ZIP button for the repo, part of the instructions for downloading" src="https://github.com/user-attachments/assets/e37a9aab-6528-4078-a1a7-0a6d575c76db">
